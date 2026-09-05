@@ -1,0 +1,6 @@
+{
+  "name": "Woodland Adventure Resort",
+  "description": "Luxury hospitality landing page for Woodland Adventure Resort in Pachmarhi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
